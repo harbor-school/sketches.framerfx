@@ -1,0 +1,27 @@
+{
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.8"
+  },
+  "peerDependencies": {
+    "framer": "^1.0",
+    "react": "^16.8"
+  },
+  "framer": {
+    "id": "01efca91-8ae0-46a1-9e26-73e4c13fdf22",
+    "displayName": "Lighthouse"
+  },
+  "author": "yongmin ruucm",
+  "dependencies": {
+    "@framer/framer.default": "^1.71.0",
+    "@framer/framer.material": "^1.1.0",
+    "@framer/maximedegreve.tinyfaces": "^1.4.0",
+    "@framer/steveruizok.responsive-layout-component": "^1.17.0",
+    "@framer/zach.browser": "^1.4.0",
+    "framer-motion": "^2.6.12",
+    "module-alias": "^2.2.2"
+  },
+  "name": "@framer/ruucm-h.lighthouse",
+  "version": "1.39.0"
+}
